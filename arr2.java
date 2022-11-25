@@ -23,10 +23,6 @@ public class arr2 {
         {
             System.out.println("not found");
         } 
-
-    
-    
-
     }
     
 }
