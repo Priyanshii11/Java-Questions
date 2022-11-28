@@ -1,3 +1,4 @@
+//write a method name gettotal and get sum of two digit number
 import java.util.Scanner;
 public class mtd1
 {

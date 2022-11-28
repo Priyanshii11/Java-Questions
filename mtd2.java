@@ -1,3 +1,4 @@
+//write a method to find enter num is true or not if even return true and odd reurn false
 import java.util.Scanner;
 public class mtd2 {
     public static void main(String[] args) {
