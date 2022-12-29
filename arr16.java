@@ -1,3 +1,4 @@
+//find element in even position
 public class arr16 {
     public static void main(String[] args) {
         int[] a=new int[]{1,2,3,4,5};
@@ -11,7 +12,7 @@ public class arr16 {
         System.out.println("element at even position");
         for(int i =1;i<a.length;i=i+2)
         {
-            System.out.print(a[i]+ "  ");
+            System.out.print(a[i]+ " ");
         }
 
     }
