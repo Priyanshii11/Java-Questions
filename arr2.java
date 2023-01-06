@@ -12,6 +12,8 @@ public class arr2 {
         }
         else 
         {
+          
+          
             flag=0;
             
         }

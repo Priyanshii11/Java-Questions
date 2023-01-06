@@ -15,6 +15,7 @@ public class mtd1
 public static int getTotal( int x, int y)
 {
        return x+y;
+       
 }
 
 }

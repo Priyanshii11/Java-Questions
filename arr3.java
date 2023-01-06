@@ -24,6 +24,9 @@ public class arr3
         System.out.println();
         System.out.println("Summ of array = " +sum);
         System.out.println("average of array = " +(sum/2));
+   
+   
+   
     }
     
 }

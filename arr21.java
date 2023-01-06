@@ -17,6 +17,7 @@ public class arr21 {
         System.out.println("displaying matric 1 ");//display m1
         for ( i= 0 ; i < row ; i++ )
         { 
+            
             for ( j= 0 ; j < col ;j++ )
             System.out.print(mat1[i][j]+"\t");
             System.out.println();

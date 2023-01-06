@@ -21,6 +21,8 @@ mat1[i][j] = in.nextInt();
 }
 System.out.println("Enter the elements of matric2");
  
+
+
 for ( i= 0 ; i < row ; i++ )
    {
 for ( j= 0 ; j < col ;j++ )
