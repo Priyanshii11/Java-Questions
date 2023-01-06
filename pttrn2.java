@@ -1,5 +1,5 @@
 //pattern printing
-public class pattern2 {
+public class pttrn2 {
         public static void main(String[] args) {
             for (int i = 0; i <= 5; i++) {
                 for (int s = (5 - i); s >= 0; s--) {
