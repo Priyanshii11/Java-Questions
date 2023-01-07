@@ -11,6 +11,5 @@ public class table {
         {
              System.out.println(+a+" * " +i+ "=" +(i*a));
         }
-    }
-    
+    }   
 }

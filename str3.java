@@ -1,5 +1,4 @@
 //wap to fill in a letter template which look like "dear <name>, thanks a lot"//
-import java.util.Scanner;
 public class str3 {
     public static void main(String[] args) {
         
@@ -9,4 +8,5 @@ public class str3 {
 
     }
     
+
 }
