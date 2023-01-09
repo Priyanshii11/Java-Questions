@@ -9,4 +9,6 @@ public class arr10 {
               Arrays.sort(a);
               System.out.println("smallest element is:" + a[1]);
             }
+
+            
 }

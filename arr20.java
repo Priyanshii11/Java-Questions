@@ -26,6 +26,7 @@ public class arr20
             System.out.print(a[i] + " ");
         }
         System.out.println();
+        
     }
 }
 

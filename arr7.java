@@ -11,5 +11,5 @@ public class arr7 {
       System.out.println("smallest element is:" + min);
     }
     
-    }
+}
 
