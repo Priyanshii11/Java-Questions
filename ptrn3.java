@@ -7,6 +7,11 @@ public class ptrn3 {
                System.out.print("*");
            }
         System.out.println();
-}
+
+
     }
+   
+
+}
+
 }
