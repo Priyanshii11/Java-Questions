@@ -10,7 +10,5 @@ public class math1 {
         int c =(int)(Math.random()*(b-a+1)+a);
         System.out.println(c);
 
-    
-
-    }  
+     }  
 }

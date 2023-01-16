@@ -8,6 +8,7 @@ public class arr5 {
         {
             System.out.print(a[i] + " ");
         }
+        
         System.out.println();
         int[] b=a;
         System.out.println("array stored in b");

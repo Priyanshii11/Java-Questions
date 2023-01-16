@@ -13,7 +13,7 @@ public class LinearS {
         }
         System.out.println();
 
-    }
+ }
     
 }
 
