@@ -14,8 +14,5 @@ public class arr15 {
         {
             System.out.print(a[i]+ "  ");
         }
-
-
-        
     }
 }

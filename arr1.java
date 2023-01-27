@@ -14,6 +14,7 @@ public class arr1
         for(i=0;i<5;i++)
         {
             sum=sum+a[i];
+    
         }
         System.out.println("sum of element"+sum);
     }

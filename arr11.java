@@ -30,7 +30,7 @@ public class arr11
                 System.out.print(a[i]+ " ");
             }
         }
-    }
+}
 
     
 

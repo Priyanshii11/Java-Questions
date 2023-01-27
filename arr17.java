@@ -5,6 +5,5 @@ public class arr17{
         int n=a.length;
         System.out.println(n);
 
-        
-    }
+        }
 }
