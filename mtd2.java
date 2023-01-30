@@ -26,5 +26,4 @@ public static boolean isEven(int x)
     return false;
  }
 }
-    
-}
+    }
