@@ -11,7 +11,5 @@ public class pttrn2 {
                 System.out.println();
     
             }
-        }
-
-        
+        }    
     }
