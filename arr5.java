@@ -16,6 +16,7 @@ public class arr5 {
             System.out.print(b[i] + " ");
 
         }
+   
     }
     
 }
