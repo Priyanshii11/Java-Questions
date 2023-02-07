@@ -10,9 +10,5 @@ public class arr9 {
       Arrays.sort(a);
       System.out.println("largest element is:" + a[n-3]);
     }
-
-
-
-    
-    }
+ }
     

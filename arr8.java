@@ -9,8 +9,7 @@ public class arr8 {
       int n=a.length;
       Arrays.sort(a);
       System.out.println("largest element is:" + a[n-2]);
-    }
-    
+    }   
  }
 
     
