@@ -7,6 +7,4 @@ public class str3 {
         System.out.println(sen.replaceAll("name" , "tina"));
 
     }
-    
-
 }
