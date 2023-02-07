@@ -15,8 +15,6 @@ public class arr5 {
         for(i=0;i<a.length;i++){
             System.out.print(b[i] + " ");
 
-        }
-   
-    }
+        } }
     
 }

@@ -17,5 +17,6 @@ public class arr1
     
         }
         System.out.println("sum of element"+sum);
+  
     }
 }
