@@ -5,6 +5,5 @@ public class str3 {
     
         String sen="dear name ,thanks alot";
         System.out.println(sen.replaceAll("name" , "tina"));
-
-    }
+   }
 }
