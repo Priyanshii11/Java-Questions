@@ -7,5 +7,4 @@ public class str4 {
         sen=sen.replaceAll(" ", "   ");
         System.out.println(sen);
     }
-    
 }
