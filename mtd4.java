@@ -15,6 +15,5 @@ public class mtd4 {
     
     System.out.println("average of 2 number = " +avg);
     }
-    
 }
 
