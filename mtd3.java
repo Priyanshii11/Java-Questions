@@ -21,5 +21,6 @@ public class mtd3
         int a=sc.nextInt();
         int n = sumOfNum(a);
         System.out.println("sum of n " +a+ " is " +n);
+   
     }
 }
