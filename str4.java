@@ -6,5 +6,8 @@ public class str4 {
         System.out.println(sen);
         sen=sen.replaceAll(" ", "   ");
         System.out.println(sen);
+ 
+
+        
     }
 }

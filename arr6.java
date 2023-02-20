@@ -10,6 +10,7 @@ public class arr6 {
         max=a[i];
       }
       System.out.println("largest element is:" + max);
+   
     }
     
 }
