@@ -20,6 +20,7 @@ public class mtd3
         System.out.println("enter the number");
         int a=sc.nextInt();
         int n = sumOfNum(a);
+   
         System.out.println("sum of n " +a+ " is " +n);
      }
 }
