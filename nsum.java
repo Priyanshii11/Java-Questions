@@ -12,6 +12,7 @@ public class nsum {
         {
           sum +=i;
           System.out.println(sum);
+
             
         }
         System.out.println("sum of "+a+ "number is=" +sum);
