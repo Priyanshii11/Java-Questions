@@ -13,6 +13,7 @@ public class arr21 {
         { 
             for ( j= 0 ; j < col ;j++ )
             mat1[i][j] = in.nextInt();
+            
         }
         System.out.println("displaying matric 1 ");//display m1
         for ( i= 0 ; i < row ; i++ )
