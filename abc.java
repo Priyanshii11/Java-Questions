@@ -7,6 +7,8 @@ public class abc {
     Scanner scan = new Scanner(System.in);
     for(i=0;i<a.length;i++)
     {
+
+        
          a[i] = scan.nextInt();
     }
     for(i=0;i<a.length;i++)
